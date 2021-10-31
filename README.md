@@ -1,7 +1,7 @@
 # Doctor-patient REST service
 
 ---
-System for entering and displaying information about doctors and their patients, including CRUD functionality
+System for input and displaying information about doctors and their patients, including CRUD functionality
 ---
 **The web application allows you to:**
 
